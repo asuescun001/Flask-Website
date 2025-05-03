@@ -1,1 +1,1 @@
-A script to connect Python with a SQLite DB to manage data.
+This is a very simple website using Flask in Python.
